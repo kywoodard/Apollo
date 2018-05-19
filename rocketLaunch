@@ -1,0 +1,5 @@
+#!/bin/bash
+
+make
+./rocketSim
+python rocket_animation.py sim_on
